@@ -1,0 +1,53 @@
+body {
+	background-color: #f5f5f5;
+}
+
+.container {
+	margin-top: 50px;
+}
+
+.table {
+	margin-bottom: 30px;
+}
+
+.btn-outline-secondary {
+	background-color: #f5f5f5;
+	color: #212529;
+}
+
+.btn-outline-secondary:hover {
+	background-color: #e9ecef;
+	color: #212529;
+}
+
+.btn-success {
+	background-color: #28a745;
+	border-color: #28a745;
+}
+
+.btn-success:hover {
+	background-color: #218838;
+	border-color: #1e7e34;
+}
+
+.btn-danger {
+	background-color: #dc3545;
+	border-color: #dc3545;
+}
+
+.btn-danger:hover {
+	background-color: #c82333;
+	border-color: #bd2130;
+}
+
+#result {
+	font-size: 2rem;
+	text-align: right;
+	height: 48px;
+	
+}
+
+.btn{
+	width: 48px;
+	height: 48px;
+}
