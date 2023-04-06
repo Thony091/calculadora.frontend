@@ -23,12 +23,12 @@ Esta calculadora fue creada utilizando las siguientes tecnologías:
 
 Si desea contribuir a este proyecto, puede seguir los siguientes pasos:
     <ul>
-    <li> Haz un fork del repositorio: <a href="https://github.com/KattaMP/ProyectoJavaFullStack" > Repositorio Calculadora </a></li>
-    <li> Clona el repositorio a tu máquina local.</li>
+    <li> Haz un fork del repositorio: <a href="https://github.com/Thony091/calculadora.frontend" > Repositorio Calculadora </a></li>
+    <li> Clona el repositorio " git@github.com:Thony091/calculadora.frontend.git " a tu máquina local.</li>
     <li> Haz tus cambios y guarda los archivos modificados.</li>
     <li> Haz un commit y envía un pull request.</li>
     </ul>
 <h3>Autores</h3>
 
-Esta calculadora fue creada por Grupo1(Cesar Albornoz, Catalina Muñoz, Jaime Godoy, Anthony Flores). 
+Esta calculadora fue creada por el Grupo1(César Albornoz, Catalina Muñoz, Jaime Godoy, Anthony Flores). 
 Siéntase libre de contactarnos si tiene alguna pregunta o comentario sobre este proyecto.
